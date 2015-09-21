@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 407d6422ef148f7429a2bdfafb660c65
-timeCreated: 1442492302
+guid: 5d74605d27888b748b2ec3485b6a1c3e
+timeCreated: 1442493674
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences:
-  - radiusMagnet: {fileID: 162740, guid: 3cf08b74d46c470499dd91a56b112282, type: 2}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
